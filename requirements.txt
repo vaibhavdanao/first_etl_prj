@@ -1,0 +1,13 @@
+# Apache Spark
+pyspark
+pycryptodomex
+pycryptodome
+loguru
+boto3
+findspark
+mysql-connector-python  # MySQL
+pandas
+numpy
+
+
+
